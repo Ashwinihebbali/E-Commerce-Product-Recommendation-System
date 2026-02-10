@@ -6,7 +6,7 @@
 
 ShopSmart is a beautiful, fully working e-commerce product recommendation system built with Streamlit and Collaborative Filtering. Discover personalized product suggestions tailored to your shopping preferences and behavior patterns.
 
-**Live Demo (100% online – zero installation)**: [https://replit.com/@yourfriendgrok/ShopSmart-Recommender](https://ashwinihebbali-e-commerce-product-re-importstreamlitasst-xteceu.streamlit.app/)
+**Live Demo (100% online – zero installation)**: [ShopSmart-Recommender](https://ashwinihebbali-e-commerce-product-re-importstreamlitasst-xteceu.streamlit.app/)
 
 ## ✨ Features
 
